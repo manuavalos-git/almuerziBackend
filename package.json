@@ -1,0 +1,28 @@
+{
+  "name": "almuezi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./api/index.js",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.8.4"
+  },
+  "scripts": {
+    "start": "node ./api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuavalos-git/almuezi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuavalos-git/almuezi/issues"
+  },
+  "homepage": "https://github.com/manuavalos-git/almuezi#readme"
+}
